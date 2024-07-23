@@ -102,7 +102,7 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [ironi-bit](https://github.com/ironic-bit)
+github : [ironic-bit](https://github.com/ironic-bit)
 twitter : @sapiens___
 telegram : @iron1cc
 
