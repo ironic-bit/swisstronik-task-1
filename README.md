@@ -1,14 +1,8 @@
 # Swisstronik Tesnet Techinal Task 1
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
+faucet : [Click!] (https://faucet.testnet.swisstronik.com/)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
 
 ## Steps
 
@@ -108,8 +102,8 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : [ironi-bit](https://github.com/ironic-bit)
+twitter : @sapiens___
+telegram : @iron1cc
 
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
+
